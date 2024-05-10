@@ -1,0 +1,14 @@
+:root {
+  --yellow: #FFC94A; /* warna primer */
+  --light-brown: #C08B5C;
+  --brownish-red: #795458;
+  --purple: #453F78; /* warna tombol */
+}
+
+/*
+Enable smooth scrolling di chrome://flags/#smooth-scrolling 
+kalau ga bisa smooth scrolling di browser Google Chrome
+*/
+html {
+  scroll-behavior: smooth;
+}
